@@ -1,2 +1,42 @@
 ﻿  main.cpp
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(34): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(52): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(183): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(184): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(197): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(198): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(211): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(212): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(213): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(217): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(218): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(219): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(223): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(224): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(225): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(226): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(229): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(230): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(231): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(547): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(673): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(691): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(785): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(786): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(787): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(788): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(789): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(790): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(810): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(811): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(812): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(813): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(814): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(815): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(895): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\gosus\documents\cp-school\csc476\476-setup\con476setup\con476setup\main.cpp(907): warning C4305: '+=': truncation from 'double' to 'float'
   Con476Setup.vcxproj -> C:\Users\gosus\Documents\CP-School\CSC476\476-Setup\Con476Setup\Debug\Con476Setup.exe
